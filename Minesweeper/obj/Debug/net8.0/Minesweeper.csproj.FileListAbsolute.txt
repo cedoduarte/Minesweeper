@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.exe
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.deps.json
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.runtimeconfig.json
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.dll
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\bin\Debug\net8.0\Minesweeper.pdb
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.dll
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\refint\Minesweeper.dll
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.pdb
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\Minesweeper.genruntimeconfig.cache
+C:\Users\carlo\source\repos\Minesweeper\Minesweeper\obj\Debug\net8.0\ref\Minesweeper.dll

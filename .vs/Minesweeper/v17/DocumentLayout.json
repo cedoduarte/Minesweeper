@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\Minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F15757B-AA8E-4268-AFAE-B2C1B18E2DB5}|Minesweeper\\Minesweeper.csproj|c:\\users\\carlo\\source\\repos\\minesweeper\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F15757B-AA8E-4268-AFAE-B2C1B18E2DB5}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 5,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\Minesweeper\\Minesweeper\\Program.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\Minesweeper\\Minesweeper\\Program.cs",
+              "RelativeToolTip": "Minesweeper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:19:01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
